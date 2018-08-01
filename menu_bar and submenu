@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="UTF-8">
+
+<head>
+      <title>my menu bar</title>
+</head>
+<body>
+<div class="menu_bar">
+    <div class="content">
+        <div class="list_menu">
+            <ul>
+                <li><a href="your_site.html" target="_self">Home</a></li>
+                <li class="submenu">
+                    <a href="#content 1">Content 1</a>
+                    <ul>
+                        <li><a href="#sub_1">Sub_1</a></li>
+                        <li><a href="#sub_2">Sub_2</a></li>
+                        <li><a href="#sub_3">Sub_3</a></li>
+                        <li><a href="#sub_4">Sub_4</a></li>
+                    </ul>
+                </li>
+                <li class="submenu">
+                    <a href="#content 2">Content 2</a>
+                    <ul>
+                        <li><a href="#sub_1">Sub_1</a></li>
+                        <li><a href="#sub_2">Sub_2</a></li>
+                        <li><a href="#sub_3">Sub_3</a></li>
+                        <li><a href="#sub_4">Sub_4</a></li>
+                        <li><a href="#sub_5">Sub_5</a></li>
+                        <li><a href="#sub_6">Sub_6</a></li>
+                    </ul>
+                </li>
+                <li><a href="#Content 3">Content 3</a></li>
+                <li><a href="#Content 4">Content 4</a></li>
+                <li><a href="#about">About</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>
